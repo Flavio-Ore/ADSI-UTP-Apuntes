@@ -10,7 +10,7 @@ Los apuntes están organizados según el syllabus.
 * **2. Análisis de Sistemas y Modelado de Datos**
 * **3. Diseño de Sistemas y Gestión de Proyectos**
 ## Software necesario
-Gran parte del material está hecho con el plugin 
+Gran parte del material está hecho con el plugin Excalidraw en Obsidian.
 
-* **Obsidian:** Aplicación para tomar notas y gestionar el conocimiento personal.
+* **[Obsidian](https://obsidian.md/):** Aplicación para tomar notas y gestionar el conocimiento personal.
 * **Excalidraw:** Plugin [obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) para Obsidian que permite crear diagramas y esquemas. Para una mejor visualización del material te recomiendo (casi que obligado) instalar este plugin.
